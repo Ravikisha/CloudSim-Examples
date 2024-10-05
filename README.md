@@ -45,7 +45,7 @@ Choose any of the following algorithms:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/ravikisha/cloudsim-scheduling
+    git clone https://github.com/Ravikisha/CloudSim-Examples.git
     ```
 2. Add the [CloudSim library](http://www.cloudbus.org/cloudsim/) to your project.
 3. Compile and run the project:
